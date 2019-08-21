@@ -1,1 +1,1 @@
-I am Scott Ruoti. You know who I am :) Interested to see what you cover in this course to see if it will be a good match for my students (I think it will be). Wont be participating in the group projects, but will be interested to see what they do.
+I am Scott Ruoti. I am an Assistant Professor. I am interested to see what is covered in this course to see if it will be a good match for my students (I think it will be). I won't be participating in the group projects, but will be interested to see how they work.
