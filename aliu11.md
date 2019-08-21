@@ -1,6 +1,3 @@
 I am Andy Liu. I am a Senior CS student here at UT.I have no job experiences in CS. I am in this class because I think this class will be fun.
 
-public key:
-
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDB+Uk6Zz5DVGJUI9MYqYll+M4GlMdSpAS4KBTHF2Xuv9XFs6KZQp05kcQg+/UR/mTMVdjmuJQ2CyPBdS1EJXZ8HO2NpHh8SPxx1iEqgDu0tmOESGmM6fXkIXwLoNtIzhzflIhHtf1L6denVwhHtfYR7zHas+i32zPAWrTQ6Z2pVkds+DWCK+4z6aLjychV8pE3qt0F+DG5dgj86uD3RbdlhJR2cB+r4g5r3qYmZ7M0vdc0s70fjigHny4oSN03m4y+YREnlflnjSj7aFa/3dbJe41MECqm1wqNobS8wtB90jlK7j2fcjfwZgoGzPu+RoBQkIDxPCirdoq76SG+4vHe0i6+5Yf48kSMkHvmWcx7i5pk/toHms24na3SzXb0RGjD/vHZXmJJkTZekWq6HHpU6/LHl4XtrqBnsMtn3oEAcEbmzvEp/DaNuX48X39UeKDkza721puxBg1qEVGhIkY350mlJIAI5Z9WbRyp28F/jgTCefkpV8NjWnz3o4w5X6BOImd/zgN+D8N1rrr2VDJi9FatLdRHEMj5O3j+VIvWWHs6eVsTHYQ7i8/VnNmgcsMKvRnNxoB2fvv5QtFPy+0YpgNxhPQ1yvlRD1+4iDzbO2wOAHKbQCgIucsPgM5axb7PRhxJbJM8Z7ng4K8Sk+71izhlP2g1t2m62Dh4izr+Hw== aliu11.utk.edu
 
