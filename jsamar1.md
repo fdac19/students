@@ -1,0 +1,1 @@
+I am Jacob Samar and am a senior undergraduate at UTK. I recently stopped working as an intern web developer for kub after working there for over a year. I enjoy hiking, kayaking, and anything else outdoors in my free time. 
