@@ -1,1 +1,1 @@
-I am Zach McMichael and I am a Computer Science student and UT. I am an Airforce veteran and I maintained the C17. I am very interested machine learning and data science.
+I am Zach McMichael and I am a Computer Science student and UT. I am an Airforce veteran and I maintained the C17. I work for Dr. Mokus and Dr. Chen on the Twitter project doing machine learning and some data science. I am familiar with MongoDB, Python, Jupyter Notebooks, and text analysis using machine learning. 
