@@ -1,0 +1,1 @@
+I am Chase Brunette-Pak and I am in my fourth year of Computer Science at the EECS department. I have interned for SAIC this past summer, as well have been a part interning constantly at JtechData in middle Tennessee. I enjoy solving puzzles and wearable tech. 
