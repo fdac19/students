@@ -1,0 +1,1 @@
+I am Nicholas Van Nostrand and I am pursuing a Masters in Computer Engineering.  I finished my undergrad at Union College in New York.  I have worked on two separate research projects with convolutional neural networks.  My areas of interest are artificial intelligence, security and computer graphics.
