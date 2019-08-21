@@ -1,0 +1,1 @@
+I am Viktor Zenkov. I am a graduate student. My background includes two internships using machine learning and other skills, along with all the required material for getting my undergraduate degree. I enjoyed taking CS340 with Dr. Mockus and I am back for more.
