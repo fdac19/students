@@ -1,0 +1,1 @@
+I am Scott Ruoti. You know who I am :) Interested to see what you cover in this course to see if it will be a good match for my students (I think it will be). Wont be participating in the group projects, but will be interested to see what they do.
