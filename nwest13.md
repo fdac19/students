@@ -1,0 +1,1 @@
+My name is Nicholas West, and I am an undergraduate majoring in computer science. I was interested in this class because I had worked with Dr. Mockus earlier for a CURENT project that involved analyzing tweets in relation to natural disasters. I hope that I can incorporate parts of that project into this group project.
