@@ -1,0 +1,1 @@
+I am Casey Lemon and I am a Senior majoring in Computer Science. This Summer I had the opportunity to work at AT&T's headquarters in Dallas, TX as a Software Engineering Intern in their Technology Development Program. I look forward to this class and everything we will learn over the course of the semester
