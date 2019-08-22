@@ -2,3 +2,6 @@
 
 #Ethan Grissom
 I'm looking forward to working with databases and getting more experience with python and other languages for data analytics.
+
+Public Key: 
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC1kroKuixtt6Qv57jfJIXgwVo2cj/pDEQ3UaVR2YmeQRsa/BPOm8fHZ64gnVYBEJf3anvfrGZurlxr94P7pL8LQLfjZivRMGgJfWq9eOP3J4T99hFhuOLQFLAdVL674knnENj+oN6921IMcPskJz+Qv1Ipjj2XAGmL0GbwVTEctAqx3mxb5LpxI/N26TFLuXUzxLlACCPOrbH2Knua34EHoxGU45L8LG76Kj3WFjEOtnjZTTgmCFwGyMYOe+bR1weWCbSh3gtBTMG+SiIZfIDJefC5CfFkDBEiWc3opFDlYThhdUgVpESmE9c6HVNri1r+N8yNqx5lzZ6vbEh4tgzR ethan@Alcor
