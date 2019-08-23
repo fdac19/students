@@ -1,3 +1,0 @@
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDGv1irfRmQ0tRcNtE8/SCbKYqn4DKm7vTjDik0Kbp$
-
-Second Year Phd student interested in biopinformatics, data mining and machine learning.  
