@@ -1,0 +1,1 @@
+I am Sean Toll and I am a senior majoring in computer science and psychology. I'm originally from Tampa, Florida and I've been interning at the FBI Knoxville field office for over a year now. I'm a big fan of film, television, and video game scores, going so far as to say that collecting and listening to that stuff is my primary hobby.
