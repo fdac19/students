@@ -1,0 +1,1 @@
+I am Thomas Krobatsch. I am a student working on a dual BS in physics and computer science. I also work with construction subcontractor remotely almost full time. I am very interested in the extremes of physics as well as data science and I enjoy deep sea fishing when I can.

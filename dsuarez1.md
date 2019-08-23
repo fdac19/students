@@ -1,0 +1,1 @@
+I am Devon Suarez, a senior and 5-year MS student at UTK. I have worked in HPC since January 2019, developing an interest in data. I enjoy building computers, and hope that I can build a new one soon.

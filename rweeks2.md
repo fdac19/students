@@ -1,0 +1,1 @@
+I am Rachel Weeks and I am a Computer Engineering Graduate student at UTK. I am a part-time student and a full-time employee at Cisco Systems Inc. I work with the ASIG Embedded team which focuses on hardware security. Outside of school, I enjoy hiking, reading, working out, and watching netflix. Excited to see what this semester brings!

@@ -1,0 +1,1 @@
+My name is Dylan Lee and I am a senior majoring in Computer Science. I currently work as a research assistant using deep learning and CNN's to preform feature recognition on images. I am excited for this semester and for this class!
