@@ -1,0 +1,1 @@
+I am Zhenning yang, a UTK student major in computer science. I am currently doing reseach in CURENT related to text mining and I am a math tutor. I take this class because I only got my hand on machine leaning during the reseach project, I also wanted to learn more about the data managment, scraping data and so on. 
