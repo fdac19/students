@@ -1,0 +1,1 @@
+Hello, I am David DaSilva. I am a senior in the UTK CS Department. I am a teacher at Apple WTM, television actor and  I enjoy mountain biking, gardening and baking. I have an interest in accessiblilty software and learning about how code can continue to impact our lives.
