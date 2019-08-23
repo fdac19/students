@@ -1,0 +1,1 @@
+Hello my name is Andrew Poole. I am on my last semester here at UTK. I just finished up an internship at FedEx Services in Memphis, TN. I am starting to look for a full time position to start off my career. I look forward to attending and learning in your class! 
