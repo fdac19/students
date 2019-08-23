@@ -1,0 +1,1 @@
+I am Sai Manikonda and I am senior majoring in CS with a concentration in Cybersecurity. I worked as a DevOps intern this past summer. I am interested in software development and database management. I am excited to learn about Data Science and what this course has to offer!
