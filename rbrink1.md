@@ -1,0 +1,1 @@
+I am Rebecca Brink. I am a grad student in the Data Analysis and Engineering program offered through the Bredesen Center. My background is mechanical engineering, but I have been working with machine learning and data analysis the last two year. I look forward to learning what this class has to offer. 
