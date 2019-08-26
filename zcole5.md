@@ -1,0 +1,1 @@
+My name is Zac Cole and my major is Computer Science. I like problem solving and have a bunch of different hobbies. I work in IT currently part time and love to work with any form of technology. 
